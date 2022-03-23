@@ -1,8 +1,10 @@
 # awesome-rl-papers
 ## Block MDP
-+ Provable RL with Exogenous Distractors via Multistep Inverse Dynamics (ICLR2022) [paper](https://arxiv.org/abs/2110.08847) [[no code]]()
++ Provable RL with Exogenous Distractors via Multistep Inverse Dynamics (ICLR2022 oral) [paper](https://arxiv.org/abs/2110.08847) [[no code]]()
 + Provably efficient RL with Rich Observations via Latent State Decoding (ICML2019) [paper](https://arxiv.org/abs/1901.09018) [code](https://github.com/Microsoft/StateDecoding)
 + Provable Rich Observation Reinforcement Learning with Combinatorial Latent States (ICLR2021) [paper](https://openreview.net/forum?id=hx1IXFHAw7R) [[no code]]()
++ Kinematic State Abstraction and Provably Efficient Rich-Observation Reinforcement Learning (ICML2020) [paper](https://arxiv.org/abs/1911.05815) [[no code]]()
++ Efficient Reinforcement Learning in Block MDPs: A Model-free Representation Learning Approach (arxiv) [paper](https://arxiv.org/abs/2202.00063) [code](https://github.com/yudasong/briee)
 ## Lifelong Learning, Continual Learning
 + Modular Lifelong Reinforcement Learning via Neural Composition (ICLR2022) [paper](https://openreview.net/forum?id=5XmLzdslFNN)
 + Generalisation in Lifelong Reinforcement Learning through Logical Composition (ICLR2022) [paper](https://openreview.net/forum?id=ZOcX-eybqoL) [[code bug]]()
