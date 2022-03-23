@@ -8,9 +8,15 @@
 + Modular Lifelong Reinforcement Learning via Neural Composition (ICLR2022) [paper](https://openreview.net/forum?id=5XmLzdslFNN)
 + Generalisation in Lifelong Reinforcement Learning through Logical Composition (ICLR2022) [paper](https://openreview.net/forum?id=ZOcX-eybqoL) [[code bug]]()
 + Continual Learning via Local Module Composition (NIPS2021) [paper](https://arxiv.org/abs/2111.07736) [code](https://github.com/oleksost/lmc)
+
 ## Genelization
 + Cross-Trajectory Representation Learning for Zero-Shot Generalization in RL (ICLR2022) [paper](https://arxiv.org/abs/2106.02193) [code](https://github.com/bmazoure/ctrl_public)
 + Why Generalization in RL is Difficult: Epistemic POMDPs and Implicit Partial Observability (NIPS2021) [paper](https://arxiv.org/abs/2107.06277)
+
+## Abstraction, logical
++ Compositional Reinforcement Learning from Logical Specifications (NIPS2021) [paper](https://arxiv.org/abs/2106.13906) [code](https://github.com/keyshor/dirl)
++ Learning Markov State Abstractions for Deep Reinforcement Learning (NIPS2021) [paper](https://arxiv.org/abs/2106.04379) [code](https://github.com/camall3n/markov-state-abstractions)
++ 
 ## Misc
 + Contextual Decision Processes with Low Bellman Rank are PAC-Learnable (ICML2017) [paper](https://arxiv.org/abs/1610.09512)
 
