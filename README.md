@@ -32,5 +32,5 @@
 ## Misc
 + Contextual Decision Processes with Low Bellman Rank are PAC-Learnable (ICML2017) [paper](https://arxiv.org/abs/1610.09512)
 ## Resourses
-[rl generalization paper](https://github.com/kaixin96/rl-generalization-paper)
-[Continual AI](https://github.com/ContinualAI/continual-learning-papers)
++ [rl generalization paper](https://github.com/kaixin96/rl-generalization-paper)
++ [Continual AI](https://github.com/ContinualAI/continual-learning-papers)
