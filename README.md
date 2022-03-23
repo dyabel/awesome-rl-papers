@@ -16,7 +16,6 @@
 ## Abstraction, logical
 + Compositional Reinforcement Learning from Logical Specifications (NIPS2021) [paper](https://arxiv.org/abs/2106.13906) [code](https://github.com/keyshor/dirl)
 + Learning Markov State Abstractions for Deep Reinforcement Learning (NIPS2021) [paper](https://arxiv.org/abs/2106.04379) [code](https://github.com/camall3n/markov-state-abstractions)
-+ 
 ## Misc
 + Contextual Decision Processes with Low Bellman Rank are PAC-Learnable (ICML2017) [paper](https://arxiv.org/abs/1610.09512)
 
