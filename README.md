@@ -8,10 +8,13 @@
 + Generalisation in Lifelong Reinforcement Learning through Logical Composition (ICLR2022) [paper](https://openreview.net/forum?id=ZOcX-eybqoL) [[code bug]]()
 + Continual Learning via Local Module Composition (NIPS2021) [paper](https://arxiv.org/abs/2111.07736) [code](https://github.com/oleksost/lmc)
 + Gradient Projection Memory for Continual Learning (ICLR2021 oral) [paper](https://openreview.net/forum?id=3AOj0RCNC2)
++ Policy and value transfer in lifelong reinforcement learning. (ICML2018) [paper](https://proceedings.mlr.press/v80/abel18b.html) [[no code]]()
++ Lipschitz Lifelong Reinforcement Learning (AAAI2021) [paper](https://arxiv.org/abs/2001.05411) [code](https://github.com/SuReLI/llrl)
 ## Genelization
 + Cross-Trajectory Representation Learning for Zero-Shot Generalization in RL (ICLR2022) [paper](https://arxiv.org/abs/2106.02193) [code](https://github.com/bmazoure/ctrl_public)
 + Why Generalization in RL is Difficult: Epistemic POMDPs and Implicit Partial Observability (NIPS2021) [paper](https://arxiv.org/abs/2107.06277)
 + Constructing a Good Behavior Basis for Transfer using Generalized Policy Updates (ICLR2022) [paper](https://arxiv.org/abs/2112.15025) [[no code]]()
++ Environment Generation for Zero-Shot Compositional Reinforcement Learning (NIPS2021) [paper](https://arxiv.org/abs/2201.08896) [code?](https://github.com/google-research/google-research)
 ## Abstraction, logical
 + Compositional Reinforcement Learning from Logical Specifications (NIPS2021) [paper](https://arxiv.org/abs/2106.13906) [code](https://github.com/keyshor/dirl)
 + Learning Markov State Abstractions for Deep Reinforcement Learning (NIPS2021) [paper](https://arxiv.org/abs/2106.04379) [code](https://github.com/camall3n/markov-state-abstractions)
