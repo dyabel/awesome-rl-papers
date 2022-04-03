@@ -33,6 +33,10 @@ Reinforcement Learning [arxiv](https://arxiv.org/abs/2111.08066) [[no code]]()
 + Fast reinforcement learning with generalized policy updates (PNAS) [arxiv](https://www.pnas.org/doi/10.1073/pnas.1907370117) 
 + Transfer in Deep Reinforcement Learning Using Successor Features and Generalised Policy Improvement (ICML2018) [arxiv](https://arxiv.org/abs/1901.10964) [[no code]]()
 + Lifelong Policy Gradient Learning of Factored Policies for Faster Training Without Forgetting (NIPS2020) [arxiv](https://arxiv.org/abs/2007.07011?msclkid=f032622cae9b11eca1208cbc4573adfd)
++ Policy Consolidation for Continual Reinforcement Learning (ICML2019) [arxiv](https://arxiv.org/abs/1902.00255) [code](https://github.com/ChristosKap/policy_consolidation)
++ **Continual Reinforcement Learning with Complex Synapses** [arxiv](https://arxiv.org/abs/1802.07239) [[no code]]()
++  Continuous Coordination As a Realistic Scenario for Lifelong Learning [arxiv](https://arxiv.org/abs/2103.03216) [code1](https://arxiv.org/abs/2103.03216) [code2](https://github.com/chandar-lab/CMAL_Hanabi)
++  Lifelong Incremental Reinforcement Learning with Online Bayesian Inference (TNNLS) [pdf](https://arxiv.org/pdf/2007.14196.pdf) [code](https://github.com/HeyuanMingong/llirl)
 ## Genelization
 + Cross-Trajectory Representation Learning for Zero-Shot Generalization in RL (ICLR2022) [arxiv](https://arxiv.org/abs/2106.02193) [code](https://github.com/bmazoure/ctrl_public)
 + Why Generalization in RL is Difficult: Epistemic POMDPs and Implicit Partial Observability (NIPS2021) [arxiv](https://arxiv.org/abs/2107.06277)
@@ -45,6 +49,10 @@ Reinforcement Learning [arxiv](https://arxiv.org/abs/2111.08066) [[no code]]()
 + Source tasks selection for transfer deep reinforcement learning: a case of study on Atari games
 + The Distracting Control Suite -- A Challenging Benchmark for Reinforcement Learning from Pixels [pdf](https://arxiv.org/abs/2101.02722) [code](https://github.com/google-research/google-research/tree/master/distracting_control)
 + AdaRL: What, Where, and How to Adapt in Transfer Reinforcement Learning (ICLR2022 spotlight) [arxiv](https://arxiv.org/abs/2107.02729?msclkid=20563870ae9511ec9aee6806961083d2) [code](https://github.com/adaptive-rl/adarl-code)
++ Improving zero-shot generalization in offline reinforcement learning using generalized similarity functions (ICLR2022 reject) [openreview](https://openreview.net/forum?id=pC00NfsvnSK) [code]()
++ DARLA: Improving Zero-Shot Transfer in Reinforcement Learning (ICML2017) [arxiv](https://arxiv.org/abs/1707.08475) [code](https://github.com/BCHoagland/DARLA)
+## Transfer learnning
++ Off-Dynamics Reinforcement Learning: Training for Transfer with Domain Classifiers (ICLR2021) [arxiv](https://arxiv.org/abs/2006.13916) [code](https://github.com/shreyasc-13/off_domain_rlkit)
 ## Abstraction, Logical
 + Compositional Reinforcement Learning from Logical Specifications (NIPS2021) [arxiv](https://arxiv.org/abs/2106.13906) [code](https://github.com/keyshor/dirl)
 + Learning Markov State Abstractions for Deep Reinforcement Learning (NIPS2021) [arxiv](https://arxiv.org/abs/2106.04379) [code](https://github.com/camall3n/markov-state-abstractions)
@@ -65,9 +73,15 @@ Reinforcement Learning [arxiv](https://arxiv.org/abs/2111.08066) [[no code]]()
 ## Graph
 + Graph Convolutional Reinforcement Learning (ICLR2020) [arxiv](https://arxiv.org/abs/1810.09202) [pytorch](https://github.com/jiechuanjiang/pytorch_DGN) [tf](https://github.com/PKU-AI-Edge/DGN/)
 + Graph Policy Gradients for Large Scale Robot Control (CoRL2019 oral) [arxiv](https://arxiv.org/abs/1907.03822) [code](https://github.com/arbaazkhan2/gpg_labeled)
-## Multi Agent
+## MARL
 + Multi-Agent Inverse Reinforcement Learning: Suboptimal Demonstrations and Alternative Solution [arxiv](https://arxiv.org/abs/2109.01178)
-+ Multi-Agent Generative Adversarial Imitation Learning [arxiv](https://arxiv.org/abs/1807.09936)
++ Multi-Agent Generative Adversarial Imitation Learning (NIPS2018) [arxiv](https://arxiv.org/abs/1807.09936)
++ Social Neuro AI: Social Interaction as the "dark matter" of AI [arxiv](https://arxiv.org/abs/2112.15459)
++ Emergent Social Learning via Multi-agent Reinforcement Learning (ICML2021) [arxiv](https://arxiv.org/abs/2010.00581) [[no code]]()
++ Meta-brain Models: biologically-inspired cognitive agents [arxiv](https://arxiv.org/abs/2109.11938)
++ Learning Meta Representations for Agents in Multi-Agent Reinforcement Learning [arxiv](https://arxiv.org/abs/2108.12988) [[no code]]()
++ **An Efficient Transfer Learning Framework for Multiagent Reinforcement Learning** (NIPS2021) [arxiv](https://arxiv.org/abs/2002.08030) [code](https://github.com/tianpeiyang/maptf_code)
++ Option-Critic in Cooperative Multi-agent Systems [arxiv](https://arxiv.org/abs/1911.12825) [code](https://github.com/Jhelum-Ch/On-policy-Distributed-Option-Critic)
 ## Auxiliary task, Representation learning
 + state-representaton-learning-rl [blog](https://tech.preferred.jp/en/blog/state-representation-learning-rl/)
 + **Contrastive Behavioral Similarity Embeddings for Generalization in Reinforcement Learning** (ICLR2021 oral) [arxiv](https://arxiv.org/abs/2101.05265) [code](https://github.com/google-research/google-research/tree/master/pse)
@@ -91,6 +105,10 @@ Reinforcement Learning [arxiv](https://arxiv.org/abs/2111.08066) [[no code]]()
 + Understanding Domain Randomization for Sim-to-real Transfer (ICLR2022 spotlight) [arxiv](https://arxiv.org/abs/2110.03239)
 ## Hierarchical
 + Possibility Before Utility: Learning And Using Hierarchical Affordances (ICLR2022 spotlight) [arxiv](https://arxiv.org/abs/2203.12686v1?msclkid=83020b9cae9711ecaafdee45eee7f46a) [code](https://github.com/robbycostales/hal)
+## POMDPs
++ Deep Variational Reinforcement Learning for POMDPs (ICLR2018) [arxiv](https://arxiv.org/abs/1806.02426) [code](https://github.com/maximilianigl/DVRL)
+## Evolution
++ Trust Region Evolution Strategies (AAAI2019) [pdf](https://www.microsoft.com/en-us/research/uploads/prod/2018/11/trust-region-evolution-strategies.pdf)
 ## Review
 + Deep Reinforcement Learning: Opportunities and Challenges [pdf](https://arxiv.org/pdf/2202.11296.pdf)
 + Reinforcement Learning in Robotics: A Survey [pdf](https://www.ri.cmu.edu/pub_files/2013/7/Kober_IJRR_2013.pdf)
@@ -108,3 +126,4 @@ Reinforcement Learning [arxiv](https://arxiv.org/abs/2111.08066) [[no code]]()
 ## Resourses
 + [rl generalization arxiv](https://github.com/kaixin96/rl-generalization-arxiv)
 + [Continual AI](https://github.com/ContinualAI/continual-learning-arxivs)
++ [Awesome Incremental Learning](https://github.com/xialeiliu/Awesome-Incremental-Learning)
